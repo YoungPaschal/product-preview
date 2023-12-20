@@ -1,0 +1,58 @@
+.class{
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.body{
+    background-color: antiquewhite;
+}
+.image{
+    width: 300px;
+    border-radius: 20px 0px 0px 20px;
+}
+.Perfume{
+    width: 270px;
+    border-radius: 0px 20px 20px 0px;
+    padding: 10px;
+    background-color: white;
+}
+.fume{
+    font-family: monospace;
+    font-size: 16px;
+    color:  hsl(0, 0%, 27%);
+    margin-top: 10px;
+}
+.gabrielle{
+    font-size: 40px;
+    margin-top: 20px;
+}
+.floral{
+    margin-top: 20px;
+    font-size: 20px;
+    color: hsl(0, 0%, 27%);
+}
+.tens{
+    display: flex;
+    flex-direction: row;
+    margin-top: 25px;
+}
+.dollars{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: hsl(158, 36%, 37%);
+}
+.stock{
+    margin-top: 10px;
+    margin-left: 20px;
+    color:  hsl(0, 0%, 27%);
+}
+.img{
+    width: 250px;
+    height: 40px;
+    border-radius: 7px;
+    border: 0px;
+    color: hsl(0, 0%, 100%);
+    background-color:hsl(158, 36%, 37%);
+    margin-top: 25px;
+}
