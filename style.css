@@ -46,6 +46,7 @@
     margin-top: 10px;
     margin-left: 20px;
     color:  hsl(0, 0%, 27%);
+    text-decoration: line-through;
 }
 .img{
     width: 250px;
